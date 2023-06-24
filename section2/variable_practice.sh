@@ -12,3 +12,5 @@ echo ${numbers:3}
 echo ${numbers:3:}
 echo ${numbers: -3:2}
 echo ${numbers: -3}
+
+
